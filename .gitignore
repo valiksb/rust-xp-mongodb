@@ -1,1 +1,4 @@
 /target/
+
+.idea
+rust-xp-mongodb.iml
